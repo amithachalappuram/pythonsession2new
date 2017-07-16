@@ -1,0 +1,5 @@
+month=['jan','feb','march','april']
+print 'The first month is' ,month[0]
+print 'The second month is' ,month[1]
+print 'The third month is' ,month[2]
+print 'The fourth month is' ,month[3]
